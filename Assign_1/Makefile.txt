@@ -1,0 +1,9 @@
+Target:
+	gcc assign1.c -o prob_1
+	gcc assign2.c -o prob_2
+	gcc assign3.c -o prob_3
+	gcc assign4.c -o prob_4
+	gcc assign5.c -o prob_5
+	gcc assign6.c -o prob_6
+	gcc assign7.c -o prob_7
+	
